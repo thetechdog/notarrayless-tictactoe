@@ -1,7 +1,7 @@
 # NotArrayless Tic-Tac-Toe
 "I can't believe it's Not Arrayless Tic-Tac-Toe"
 # What is it?
-A 2 player Tic-Tac-Toe game written in Java. It's mostly a terminal game, but it does use a few graphical elements that can be easily replaced to 
+A 2 player Tic-Tac-Toe game written in Java. It's mostly a terminal game, but it does use swing for some stuff that can easily be replaced to 
 make it a fully fledged terminal game. It is also more or less a Java version of my older project, Arrayless Tic-Tac-Toe.
 # Why the name?
 Because unlike my other project, this one is not arrayless. Which means that it does use arrays.
