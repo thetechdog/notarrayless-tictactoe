@@ -10,5 +10,5 @@ Because unlike my other project, this one is not arrayless. Which means that it 
 It uses a 3x3 bidimensional array to simulate the game's grid.  
 And for some reason I think it's funny... That's about it.
 # License
-Licensed under the MIT license.
+Licensed under the MIT license.  
 (C) Andrei Ionel (thetechdog) 2022-2025
